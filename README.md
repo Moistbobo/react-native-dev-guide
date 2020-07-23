@@ -6,7 +6,8 @@ Dependencies
 ` yarn add react-router-dom redux redux-saga reselect moment typesafe-actions`
 
 devDependencies
-`yarn add --dev @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-config-recommended eslint-config-typescript eslint-plugin-prettier eslint-plugin-react prettier`
+`yarn add --dev @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-config-recommended eslint-config-typescript eslint-plugin-prettier eslint-plugin-react prettier  eslint-config-esnext",
+`
 
 .eslintrc.js
 ```
